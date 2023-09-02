@@ -1,4 +1,4 @@
 # First-Demo
 This is my first Git Repository
 <br>
-Author Sid
+Author -  Siddharth Kumar
